@@ -1,0 +1,3 @@
+[submodule "koans/ruby_koans"]
+	path = koans/ruby_koans
+	url = https://github.com/neall/ruby_koans.git

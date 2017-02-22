@@ -1,0 +1,7 @@
+{
+  "koans": [{
+    "name": "Ruby Koans",
+    "submodule": "ruby_koans",
+    "exec": "ruby ruby_koans/koans/path_to_enlightenment.rb"
+  }]
+}
