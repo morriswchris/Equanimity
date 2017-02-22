@@ -1,0 +1,6 @@
+☐ git submodule koans
+☐ use build to read koans file (possibly need a config)
+☐ need to build task runner (like travis) to run a thread in the background and output the result (simple pipe to file with sessionid).
+☐ dockerize the process of executing/heroku separate machine?
+☐ dockerize each koans execute using docker image for that lang?
+☐ https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app to add multiple languages to herokumv 
