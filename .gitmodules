@@ -1,3 +1,3 @@
-[submodule "koans/ruby_koans"]
-	path = koans/ruby_koans
-	url = https://github.com/neall/ruby_koans.git
+[submodule "koans/elixir-koans"]
+	path = koans/elixir-koans
+	url = https://github.com/elixirkoans/elixir-koans.git
